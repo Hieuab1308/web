@@ -8,7 +8,7 @@ class testController extends Controller
 {
     //
     public function index(){
-        $dung = "Say hello ";
+        $dung = "Say hello \n";
         echo $dung;
         $tuoi = 13;
         if($tuoi > 18){
